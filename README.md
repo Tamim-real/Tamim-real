@@ -37,12 +37,18 @@ I am a results-oriented **MERN Stack Developer** focused on designing and deploy
 
 ## 📂 Featured Projects
 
-* **Full-Stack MERN Blog Platform**
-    * Designed and implemented a complete application featuring JWT-based **authentication** and a highly functional **CRUD** (Create, Read, Update, Delete) interface.
-* **E-Commerce Solution**
-    * Developed a scalable e-commerce site using the MERN stack, incorporating a dynamic **cart system** and secured **payment gateway integration** (e.g., Stripe/PayPal).
-* **Responsive Portfolio Website**
-    * Built a professional and fully **responsive** personal site, demonstrating best practices in front-end design and UI/UX.
+* **Artverse - Full-Stack MERN Art Platform**  
+  A complete **art showcase and marketplace** application with JWT-based **authentication** and full **CRUD** functionality for artworks.  
+  🔗 Live: [Artverse](https://artversetech.netlify.app/)
+
+* **Plantify - Plant Store Website**  
+  A modern, responsive **plant e-commerce platform** where users can explore plants, get expert suggestions, purchase plants securely, and share tips in the community.  
+  🔗 Live: [Plantify](https://plantifytech.netlify.app/)
+
+* **Nexify - React App Management**  
+  Users can **view, install, and manage apps**, featuring search, toast notifications, SweetAlert confirmations, and a clean responsive UI.  
+  🔗 Live: [Nexify](https://nexify01.netlify.app/)
+
 
 ---
 
